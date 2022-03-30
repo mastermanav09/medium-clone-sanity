@@ -53,7 +53,7 @@ export default function Home({ posts }) {
                   </div>
                 )}
 
-                <div className="flex justify-between p-3 md:p-2   bg-white items-center space-x-3">
+                <div className="flex justify-between p-3 md:p-2 bg-white items-center space-x-3">
                   <div>
                     <p className="text-sm md:text-base font-semibold">
                       {post.title}
